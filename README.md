@@ -24,6 +24,5 @@ Actionable Recommendations:
 
 🌐 Expansion Plans: Consider opening new stores in Mysore given its exceptional performance.
 
-Gratitude: Huge thanks to my mentors Hemanand Sir, Dhaval Sir, and our Sales Director Bhavin Patel (aka Mr. Bruce Hariyali). Special thanks to the entire Codebasics team for this incredible opportunity to showcase our skills!
 
 Live Visual & Dashboard: [Insert Live Visual & Dashboard Link]
